@@ -171,3 +171,6 @@ ax1.set_ylabel("Cours ($)")
  
 fig.tight_layout()
 plt.show()
+
+
+# pip install numpy pandas matplotlib statsmodels
